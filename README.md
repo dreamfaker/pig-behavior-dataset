@@ -8,4 +8,4 @@ Dataset Link: https://pan.baidu.com/s/18G6tN3dbLq5U9QiAbWyAFA
 
 If you want to use our dataset， please contact us by email to get the password.
 
-My email: immortals2020@163.com
+My email: dongzhencs@nwafu.edu.cn
